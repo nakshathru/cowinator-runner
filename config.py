@@ -22,6 +22,7 @@ allowed_centers=[
     },    
     {
         'center_id': 564393,
+        'name': 'Govt Medical College Session 1'
     },
     {
         'center_id': 175494,
